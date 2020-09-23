@@ -32,3 +32,5 @@ Circuit | Folding |Popping
 
 ## What's the difference?
 As you may notice, the circuits of C and D are not flat. If we look closer, the circuit of B also only works in three dimensional.
+The letter B's circuit closed by folding two layers of copper foil tape together, while circuits for C and D are more complex. On both of them, the LEDs are not considered as a flat piece. One of the poles of the LED is fixed to the copper foil tape, while another pole is float. Using the height difference between two poles, the circuit will be closed in three dimensions. And the existence of this height difference greatly depends on the flexibility of paper.
+
