@@ -29,3 +29,6 @@ For the letter D, I combined the design of B and C, and make it has different li
 Circuit | Folding |Popping
 ------------ | ------------- | -------------
 ![D circuit](https://github.com/Ruhan-Yang/Light-up/blob/master/Letters/D%203.JPG)|![D on](https://github.com/Ruhan-Yang/Light-up/blob/master/Letters/D%202.JPG) |![D off](https://github.com/Ruhan-Yang/Light-up/blob/master/Letters/D%201.JPG)
+
+## What's the difference?
+As you may notice, the circuits of C and D are not flat. If we look closer, the circuit of B also only works in three dimensional.
