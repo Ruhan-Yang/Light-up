@@ -14,5 +14,5 @@ Circuit | Light it up
 ## B: light on when folding
 For letter B, I made it to light on when folding, and light off when popping.
 Circuit | Folding |Popping
------------- | ------------- 
+------------ | ------------- | -------------
 ![B circuit](|![B on](https://github.com/Ruhan-Yang/Light-up/blob/master/Letters/B%203.JPG))|![B on](https://github.com/Ruhan-Yang/Light-up/blob/master/Letters/B%201.JPG) ||![B off](https://github.com/Ruhan-Yang/Light-up/blob/master/Letters/B%202.JPG)
