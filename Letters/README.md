@@ -5,3 +5,6 @@ The letter pop-ups, copper foil tape of 1/4 inches, LEDs, and a soldering tool t
 
 ## A: just keep light up
 For letter A, I started with a circuit that keeps the LED always light up. Once the positive and negative terminals are decided, it's actually easy to put the rest of the circuit onto the paper.
+Circuit | Light it up
+------------ | ------------- 
+![A circuit](https://github.com/Ruhan-Yang/Light-up/blob/master/Letters/A%202.JPG)|![A light](https://github.com/Ruhan-Yang/Light-up/blob/master/Letters/A%201.JPG)
