@@ -16,3 +16,9 @@ For letter B, I made it to light on when folding, and light off when popping.
 Circuit | Folding |Popping
 ------------ | ------------- | -------------
 ![B circuit](https://github.com/Ruhan-Yang/Light-up/blob/master/Letters/B%203.JPG)|![B on](https://github.com/Ruhan-Yang/Light-up/blob/master/Letters/B%201.JPG) |![B off](https://github.com/Ruhan-Yang/Light-up/blob/master/Letters/B%202.JPG)
+
+## C: light on when popping
+For letter C, I made it the opposite of B, and it only light up with popping
+Circuit | Folding |Popping
+------------ | ------------- | -------------
+![C circuit](https://github.com/Ruhan-Yang/Light-up/blob/master/Letters/C%203.JPG)|![C on](https://github.com/Ruhan-Yang/Light-up/blob/master/Letters/C%201.JPG) |![C off](https://github.com/Ruhan-Yang/Light-up/blob/master/Letters/C%202.JPG)
