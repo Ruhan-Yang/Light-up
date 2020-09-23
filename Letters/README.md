@@ -21,4 +21,4 @@ Circuit | Folding |Popping
 For letter C, I made it the opposite of B, and it only light up with popping
 Circuit | Folding |Popping
 ------------ | ------------- | -------------
-![C circuit](https://github.com/Ruhan-Yang/Light-up/blob/master/Letters/C%203.JPG)|![C on](https://github.com/Ruhan-Yang/Light-up/blob/master/Letters/C%201.JPG) |![C off](https://github.com/Ruhan-Yang/Light-up/blob/master/Letters/C%202.JPG)
+![C circuit](https://github.com/Ruhan-Yang/Light-up/blob/master/Letters/C%203.jpg)|![C on](https://github.com/Ruhan-Yang/Light-up/blob/master/Letters/C%202.jpg) |![C off](https://github.com/Ruhan-Yang/Light-up/blob/master/Letters/C%201.JPG)
