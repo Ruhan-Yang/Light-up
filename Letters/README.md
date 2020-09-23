@@ -25,7 +25,7 @@ Circuit | Folding |Popping
 
 
 ## D: alternating lights
-For the letter D, I combined the design of B and C, and make it has different lights when folding and popping.
+For the letter D, I combined the design of B and C, and made it has different lights when folding and popping.
 Circuit | Folding |Popping
 ------------ | ------------- | -------------
 ![D circuit](https://github.com/Ruhan-Yang/Light-up/blob/master/Letters/D%203.JPG)|![D on](https://github.com/Ruhan-Yang/Light-up/blob/master/Letters/D%202.JPG) |![D off](https://github.com/Ruhan-Yang/Light-up/blob/master/Letters/D%201.JPG)
