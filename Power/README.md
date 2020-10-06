@@ -1,4 +1,13 @@
 # Power
-In order to complete the circuit more easily, I built this power section. 
+In order to complete the circuit more easily, I built this power section.
+
 This is how it looks like when it's flat
 ![](https://github.com/Ruhan-Yang/Light-up/blob/master/Power/Power%201.jpg)
+
+It had only the middle crease at first. For better contact, I also folded the corners later.
+Before | After
+------------ | -------------
+![](https://github.com/Ruhan-Yang/Light-up/blob/master/Power/Power%202.jpg) |![](https://github.com/Ruhan-Yang/Light-up/blob/master/Power/Power%203.JPG)
+
+After folding, the battery will be fixed between the two layers of paper.
+![](https://github.com/Ruhan-Yang/Light-up/blob/master/Power/Power%204.jpg)
