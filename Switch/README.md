@@ -14,5 +14,7 @@ Outside | Inside | Comparison
 ------------ | ------------- | -------------
 ![](https://github.com/Ruhan-Yang/Light-up/blob/master/Switch/Switch%203.jpg) | ![](https://github.com/Ruhan-Yang/Light-up/blob/master/Switch/Switch%204.jpg)| ![](https://github.com/Ruhan-Yang/Light-up/blob/master/Switch/Switch%205.jpg)
 
-
-
+With this design, now it can work! Here is how it looks like in a circuit:
+Position 1 | Position 2
+------------ | -------------
+![](https://github.com/Ruhan-Yang/Light-up/blob/master/Switch/Switch%207.JPG) | ![](https://github.com/Ruhan-Yang/Light-up/blob/master/Switch/Switch%206.JPG)
