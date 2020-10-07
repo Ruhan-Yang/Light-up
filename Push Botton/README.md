@@ -15,3 +15,6 @@ Off | On
 ## Revision A
 Later on, I noticed that leaving the two terminals on the same side makes more sense. This will fit better when connecting with other sections. \
 The following is a comparison of the two versions：
+Outside | Inside
+------------ | -------------
+![](https://github.com/Ruhan-Yang/Light-up/blob/master/Push%20Botton/Push%20Botton%205.JPG) | ![](https://github.com/Ruhan-Yang/Light-up/blob/master/Push%20Botton/Push%20Botton%206.JPG)
